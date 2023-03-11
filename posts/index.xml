@@ -4,7 +4,7 @@
         <link>http://alphacat.fun/posts/</link>
         <description>所有文章 | AlphaCat</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>jinghao_chen@msn.com (Jason Chen)</managingEditor>
-            <webMaster>jinghao_chen@msn.com (Jason Chen)</webMaster><lastBuildDate>Fri, 06 Mar 2020 21:40:32 &#43;0800</lastBuildDate><atom:link href="http://alphacat.fun/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>jinghao_chen@msn.com (Jason Chen)</webMaster><lastBuildDate>Sat, 11 Mar 2023 21:41:39 &#43;0800</lastBuildDate><atom:link href="http://alphacat.fun/posts/" rel="self" type="application/rss+xml" /><item>
     <title>主题文档 - 基本概念</title>
     <link>http://alphacat.fun/theme-documentation-basics/</link>
     <pubDate>Fri, 06 Mar 2020 21:40:32 &#43;0800</pubDate>
@@ -27,6 +27,28 @@
     <author>Dillon</author>
     <guid>http://alphacat.fun/theme-documentation-built-in-shortcodes/</guid>
     <description><![CDATA[<p><strong>Hugo</strong> 提供了多个内置的 Shortcodes, 以方便作者保持 Markdown 内容的整洁.</p>]]></description>
+</item>
+<item>
+    <title>算法学习第一天</title>
+    <link>http://alphacat.fun/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0%E7%AC%AC%E4%B8%80%E5%A4%A9/</link>
+    <pubDate>Sat, 11 Mar 2023 21:41:39 &#43;0800</pubDate>
+    <author>Jason</author>
+    <guid>http://alphacat.fun/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0%E7%AC%AC%E4%B8%80%E5%A4%A9/</guid>
+    <description><![CDATA[<h1 id="二叉树知识点梳理">二叉树知识点梳理</h1>
+<p>如果你正在学习算法与数据结构，那么二叉树肯定是一个非常重要的知识点。在这篇文章中，我将为你梳理二叉树相关的知识点，并提供使用Python3语言解答的示例题目。</p>
+<h2 id="什么是二叉树">什么是二叉树？</h2>
+<p>二叉树是一种树状结构，每个节点最多只有两个子节点，分别为左子节点和右子节点。二叉树有很多种形态，包括平衡二叉树、完全二叉树、满二叉树等等。</p>
+<h2 id="二叉树的遍历方式">二叉树的遍历方式</h2>
+<p>遍历二叉树的方式有三种：前序遍历、中序遍历和后序遍历。其中，前序遍历的顺序是先遍历根节点，然后遍历左子树，最后遍历右子树；中序遍历的顺序是先遍历左子树，然后遍历根节点，最后遍历右子树；后序遍历的顺序是先遍历左子树，然后遍历右子树，最后遍历根节点。</p>
+<h2 id="二叉树的应用场景">二叉树的应用场景</h2>
+<p>二叉树在很多领域都有着广泛的应用，比如计算机网络中的路由表、文件系统中的文件目录结构、数据库中的索引结构等等。</p>
+<h2 id="使用python3解答二叉树相关题目">使用Python3解答二叉树相关题目</h2>
+<p>下面提供两个使用Python3语言解答的二叉树相关题目：</p>
+<h3 id="题目一二叉树的最大深度">题目一：二叉树的最大深度</h3>
+<p>给定一个二叉树，找出其最大深度。最大深度指的是从根节点到最远叶子节点的最长路径上的节点数。</p>
+<p><strong>示例：</strong></p>
+<p>输入：<code>root = [3,9,20,null,null,15,7]</code>
+输出：3</p>]]></description>
 </item>
 <item>
     <title>主题文档 - 扩展 Shortcodes</title>
@@ -77,14 +99,6 @@
     <guid>http://alphacat.fun/theme-documentation-mapbox-shortcode/</guid>
     <description><![CDATA[<a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.0" rel="noopener noreffer" target="_blank"></a>
 <p><code>mapbox</code> shortcode 使用 <a href="https://docs.mapbox.com/mapbox-gl-js" target="_blank" rel="noopener noreffer ">Mapbox GL JS</a> 库提供互动式地图的功能.</p>]]></description>
-</item>
-<item>
-    <title>主题文档 - music Shortcode</title>
-    <link>http://alphacat.fun/theme-documentation-music-shortcode/</link>
-    <pubDate>Tue, 03 Mar 2020 12:29:59 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://alphacat.fun/theme-documentation-music-shortcode/</guid>
-    <description><![CDATA[<p><code>music</code> shortcode 基于 <a href="https://github.com/MoePlayer/APlayer" target="_blank" rel="noopener noreffer ">APlayer</a> 和 <a href="https://github.com/metowolf/MetingJS" target="_blank" rel="noopener noreffer ">MetingJS</a> 库提供了一个内嵌的响应式音乐播放器.</p>]]></description>
 </item>
 </channel>
 </rss>
