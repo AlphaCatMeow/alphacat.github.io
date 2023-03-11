@@ -124,6 +124,7 @@
     <li><a href="#使用python3解答二叉树相关题目">使用Python3解答二叉树相关题目</a>
       <ul>
         <li><a href="#题目一二叉树的最大深度">题目一：二叉树的最大深度</a></li>
+        <li><a href="#题目二判断二叉树是否对称">题目二：判断二叉树是否对称</a></li>
       </ul>
     </li>
     <li><a href="#总结">总结</a></li>
@@ -179,9 +180,9 @@
 </span></span><span class="line"><span class="cl"><span class="err"> </span> <span class="err"> </span> <span class="err"> </span> <span class="err"> </span> <span class="k">return</span> <span class="nb">max</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">maxDepth</span><span class="p">(</span><span class="n">root</span><span class="o">.</span><span class="n">left</span><span class="p">),</span> <span class="bp">self</span><span class="o">.</span><span class="n">maxDepth</span><span class="p">(</span><span class="n">root</span><span class="o">.</span><span class="n">right</span><span class="p">))</span> <span class="o">+</span> <span class="mi">1</span>
 </span></span></code></pre></td></tr></table>
 </div>
-</div><p>题目二：判断二叉树是否对称
-给定一个二叉树，检查它是否是镜像对称的。
-例如，二叉树 [1,2,2,3,4,4,3] 是对称的。</p>
+</div><h3 id="题目二判断二叉树是否对称">题目二：判断二叉树是否对称</h3>
+<p>给定一个二叉树，检查它是否是镜像对称的。
+例如，二叉树 <code>[1,2,2,3,4,4,3]</code> 是对称的。</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
@@ -198,7 +199,7 @@
 </span></span><span class="line"><span class="cl">  3  4 4  3
 </span></span></code></pre></td></tr></table>
 </div>
-</div><p>但是下面这个 [1,2,2,null,3,null,3] 则不是镜像对称的:</p>
+</div><p>但是下面这个 <code>[1,2,2,null,3,null,3]</code> 则不是镜像对称的:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
