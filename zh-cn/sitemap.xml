@@ -110,7 +110,7 @@
                     hreflang="zh-cn"
                     href="http://alphacat.fun/theme-documentation-typeit-shortcode/"
                     /></url><url>
-            <loc>http://alphacat.fun/</loc><lastmod>2023-03-11T00:56:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://alphacat.fun/</loc><lastmod>2020-06-12T10:10:13&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://alphacat.fun/en/"
@@ -122,24 +122,6 @@
                     rel="alternate"
                     hreflang="zh-cn"
                     href="http://alphacat.fun/"
-                    /></url><url>
-            <loc>http://alphacat.fun/posts/</loc><lastmod>2023-03-11T00:56:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="http://alphacat.fun/en/posts/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="http://alphacat.fun/posts/"
-                    /></url><url>
-            <loc>http://alphacat.fun/new-post/</loc><lastmod>2023-03-11T00:56:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="http://alphacat.fun/en/new-post/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="http://alphacat.fun/new-post/"
                     /></url><url>
             <loc>http://alphacat.fun/categories/</loc><lastmod>2020-06-12T10:10:13&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
@@ -153,6 +135,15 @@
                     rel="alternate"
                     hreflang="zh-cn"
                     href="http://alphacat.fun/categories/"
+                    /></url><url>
+            <loc>http://alphacat.fun/posts/</loc><lastmod>2020-06-12T10:10:13&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="http://alphacat.fun/en/posts/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="http://alphacat.fun/posts/"
                     /></url><url>
             <loc>http://alphacat.fun/tags/</loc><lastmod>2020-06-12T10:10:13&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
