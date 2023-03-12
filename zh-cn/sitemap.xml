@@ -2,116 +2,8 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://alphacat.fun/theme-documentation-basics/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="http://alphacat.fun/en/theme-documentation-basics/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="http://alphacat.fun/theme-documentation-basics/"
-                    /></url><url>
-            <loc>http://alphacat.fun/theme-documentation-content/</loc><lastmod>2020-03-05T16:30:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="http://alphacat.fun/en/theme-documentation-content/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="http://alphacat.fun/theme-documentation-content/"
-                    /></url><url>
-            <loc>http://alphacat.fun/theme-documentation-built-in-shortcodes/</loc><lastmod>2020-03-04T16:29:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="http://alphacat.fun/en/theme-documentation-built-in-shortcodes/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="http://alphacat.fun/theme-documentation-built-in-shortcodes/"
-                    /></url><url>
-            <loc>http://alphacat.fun/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0%E7%AC%AC%E4%B8%80%E5%A4%A9/</loc><lastmod>2023-03-11T21:41:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://alphacat.fun/theme-documentation-extended-shortcodes/</loc><lastmod>2020-06-12T10:10:13&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="http://alphacat.fun/en/theme-documentation-extended-shortcodes/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="http://alphacat.fun/theme-documentation-extended-shortcodes/"
-                    /></url><url>
-            <loc>http://alphacat.fun/basic-markdown-syntax/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="http://alphacat.fun/en/basic-markdown-syntax/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="http://alphacat.fun/basic-markdown-syntax/"
-                    /></url><url>
-            <loc>http://alphacat.fun/theme-documentation-mermaid-shortcode/</loc><lastmod>2020-03-03T15:29:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="http://alphacat.fun/en/theme-documentation-mermaid-shortcode/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="http://alphacat.fun/theme-documentation-mermaid-shortcode/"
-                    /></url><url>
-            <loc>http://alphacat.fun/emoji-support/</loc><lastmod>2019-10-01T17:55:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="http://alphacat.fun/en/emoji-support/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="http://alphacat.fun/emoji-support/"
-                    /></url><url>
-            <loc>http://alphacat.fun/theme-documentation-echarts-shortcode/</loc><lastmod>2020-03-03T14:29:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="http://alphacat.fun/en/theme-documentation-echarts-shortcode/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="http://alphacat.fun/theme-documentation-echarts-shortcode/"
-                    /></url><url>
-            <loc>http://alphacat.fun/theme-documentation-mapbox-shortcode/</loc><lastmod>2020-03-03T13:29:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="http://alphacat.fun/en/theme-documentation-mapbox-shortcode/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="http://alphacat.fun/theme-documentation-mapbox-shortcode/"
-                    /></url><url>
-            <loc>http://alphacat.fun/theme-documentation-music-shortcode/</loc><lastmod>2020-03-03T12:29:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="http://alphacat.fun/en/theme-documentation-music-shortcode/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="http://alphacat.fun/theme-documentation-music-shortcode/"
-                    /></url><url>
-            <loc>http://alphacat.fun/theme-documentation-bilibili-shortcode/</loc><lastmod>2020-03-03T12:29:41&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="http://alphacat.fun/en/theme-documentation-bilibili-shortcode/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="http://alphacat.fun/theme-documentation-bilibili-shortcode/"
-                    /></url><url>
-            <loc>http://alphacat.fun/theme-documentation-typeit-shortcode/</loc><lastmod>2020-03-03T10:29:59&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="http://alphacat.fun/en/theme-documentation-typeit-shortcode/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="http://alphacat.fun/theme-documentation-typeit-shortcode/"
-                    /></url><url>
-            <loc>http://alphacat.fun/</loc><lastmod>2023-03-11T21:41:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://alphacat.fun/%E4%BA%8C%E5%8F%89%E6%A0%911/</loc><lastmod>2023-03-11T21:41:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://alphacat.fun/</loc><lastmod>2023-03-12T10:53:12&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://alphacat.fun/en/"
@@ -124,7 +16,7 @@
                     hreflang="zh-cn"
                     href="http://alphacat.fun/"
                     /></url><url>
-            <loc>http://alphacat.fun/categories/</loc><lastmod>2023-03-11T21:41:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://alphacat.fun/categories/</loc><lastmod>2023-03-12T10:53:12&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://alphacat.fun/en/categories/"
@@ -137,17 +29,8 @@
                     hreflang="zh-cn"
                     href="http://alphacat.fun/categories/"
                     /></url><url>
-            <loc>http://alphacat.fun/posts/</loc><lastmod>2023-03-11T21:41:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="http://alphacat.fun/en/posts/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="http://alphacat.fun/posts/"
-                    /></url><url>
-            <loc>http://alphacat.fun/tags/python3/</loc><lastmod>2023-03-11T21:41:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://alphacat.fun/tags/</loc><lastmod>2023-03-11T21:41:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://alphacat.fun/posts/</loc><lastmod>2023-03-12T10:53:12&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://alphacat.fun/tags/</loc><lastmod>2023-03-12T10:53:12&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="http://alphacat.fun/en/tags/"
@@ -160,93 +43,14 @@
                     hreflang="zh-cn"
                     href="http://alphacat.fun/tags/"
                     /></url><url>
+            <loc>http://alphacat.fun/%E4%BA%8C%E5%8F%89%E6%A0%912/</loc><lastmod>2023-03-12T10:53:12&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://alphacat.fun/tags/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc><lastmod>2023-03-12T10:53:12&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://alphacat.fun/categories/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc><lastmod>2023-03-12T10:53:12&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://alphacat.fun/tags/python3/</loc><lastmod>2023-03-11T21:41:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://alphacat.fun/tags/%E7%BC%96%E7%A8%8B%E6%8A%80%E5%B7%A7/</loc><lastmod>2023-03-11T21:41:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://alphacat.fun/tags/%E4%BA%8C%E5%8F%89%E6%A0%91/</loc><lastmod>2023-03-11T21:41:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://alphacat.fun/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc><lastmod>2023-03-11T21:41:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>http://alphacat.fun/tags/%E7%AE%97%E6%B3%95/</loc><lastmod>2023-03-11T21:41:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://alphacat.fun/tags/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc><lastmod>2023-03-11T21:41:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://alphacat.fun/categories/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc><lastmod>2023-03-11T21:41:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://alphacat.fun/tags/installation/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="http://alphacat.fun/en/tags/installation/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="http://alphacat.fun/tags/installation/"
-                    /></url><url>
-            <loc>http://alphacat.fun/tags/configuration/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="http://alphacat.fun/en/tags/configuration/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="http://alphacat.fun/tags/configuration/"
-                    /></url><url>
-            <loc>http://alphacat.fun/categories/documentation/</loc><lastmod>2020-06-12T10:10:13&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="http://alphacat.fun/en/categories/documentation/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="http://alphacat.fun/categories/documentation/"
-                    /></url><url>
-            <loc>http://alphacat.fun/tags/markdown/</loc><lastmod>2020-03-05T16:30:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="http://alphacat.fun/en/tags/markdown/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="http://alphacat.fun/tags/markdown/"
-                    /></url><url>
-            <loc>http://alphacat.fun/tags/content/</loc><lastmod>2020-03-05T16:30:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="http://alphacat.fun/en/tags/content/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="http://alphacat.fun/tags/content/"
-                    /></url><url>
-            <loc>http://alphacat.fun/tags/shortcodes/</loc><lastmod>2020-06-12T10:10:13&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="http://alphacat.fun/en/tags/shortcodes/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="http://alphacat.fun/tags/shortcodes/"
-                    /></url><url>
-            <loc>http://alphacat.fun/tags/html/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="http://alphacat.fun/en/tags/html/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="http://alphacat.fun/tags/html/"
-                    /></url><url>
-            <loc>http://alphacat.fun/categories/markdown/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="http://alphacat.fun/en/categories/markdown/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="http://alphacat.fun/categories/markdown/"
-                    /></url><url>
-            <loc>http://alphacat.fun/tags/emoji/</loc><lastmod>2019-10-01T17:55:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="http://alphacat.fun/en/tags/emoji/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="http://alphacat.fun/tags/emoji/"
-                    /></url><url>
             <loc>http://alphacat.fun/about/</loc><lastmod>2019-08-02T11:04:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -255,4 +59,16 @@
                     rel="alternate"
                     hreflang="zh-cn"
                     href="http://alphacat.fun/about/"
+                    /></url><url>
+            <loc>http://alphacat.fun/tags/installation/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://alphacat.fun/tags/content/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://alphacat.fun/tags/configuration/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://alphacat.fun/categories/documentation/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="http://alphacat.fun/en/categories/documentation/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="http://alphacat.fun/categories/documentation/"
                     /></url></urlset>

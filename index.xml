@@ -4,38 +4,14 @@
         <link>http://alphacat.fun/</link>
         <description>AlphaCat Blog 基于 Hugo 构建</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>jinghao_chen@msn.com (Jason Chen)</managingEditor>
-            <webMaster>jinghao_chen@msn.com (Jason Chen)</webMaster><lastBuildDate>Sat, 11 Mar 2023 21:41:39 &#43;0800</lastBuildDate>
+            <webMaster>jinghao_chen@msn.com (Jason Chen)</webMaster><lastBuildDate>Sun, 12 Mar 2023 10:53:12 &#43;0800</lastBuildDate>
             <atom:link href="http://alphacat.fun/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>主题文档 - 基本概念</title>
-    <link>http://alphacat.fun/theme-documentation-basics/</link>
-    <pubDate>Fri, 06 Mar 2020 21:40:32 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://alphacat.fun/theme-documentation-basics/</guid>
-    <description><![CDATA[<p>探索 Hugo - <strong>LoveIt</strong> 主题的全部内容和背后的核心概念.</p>]]></description>
-</item>
-<item>
-    <title>主题文档 - 内容</title>
-    <link>http://alphacat.fun/theme-documentation-content/</link>
-    <pubDate>Thu, 05 Mar 2020 16:30:05 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://alphacat.fun/theme-documentation-content/</guid>
-    <description><![CDATA[<p>了解如何在 <strong>LoveIt</strong> 主题中快速, 直观地创建和组织内容.</p>]]></description>
-</item>
-<item>
-    <title>主题文档 - 内置 Shortcodes</title>
-    <link>http://alphacat.fun/theme-documentation-built-in-shortcodes/</link>
-    <pubDate>Wed, 04 Mar 2020 16:29:59 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://alphacat.fun/theme-documentation-built-in-shortcodes/</guid>
-    <description><![CDATA[<p><strong>Hugo</strong> 提供了多个内置的 Shortcodes, 以方便作者保持 Markdown 内容的整洁.</p>]]></description>
-</item>
-<item>
-    <title>算法学习第一天</title>
-    <link>http://alphacat.fun/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0%E7%AC%AC%E4%B8%80%E5%A4%A9/</link>
+    <title>二叉树（1）</title>
+    <link>http://alphacat.fun/%E4%BA%8C%E5%8F%89%E6%A0%911/</link>
     <pubDate>Sat, 11 Mar 2023 21:41:39 &#43;0800</pubDate>
     <author>Jason</author>
-    <guid>http://alphacat.fun/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0%E7%AC%AC%E4%B8%80%E5%A4%A9/</guid>
+    <guid>http://alphacat.fun/%E4%BA%8C%E5%8F%89%E6%A0%911/</guid>
     <description><![CDATA[<h1 id="二叉树知识点梳理">二叉树知识点梳理</h1>
 <p>如果你正在学习算法与数据结构，那么二叉树肯定是一个非常重要的知识点。在这篇文章中，我将为你梳理二叉树相关的知识点，并提供使用Python3语言解答的示例题目。</p>
 <h2 id="什么是二叉树">什么是二叉树？</h2>
@@ -53,54 +29,46 @@
 输出：3</p>]]></description>
 </item>
 <item>
-    <title>主题文档 - 扩展 Shortcodes</title>
-    <link>http://alphacat.fun/theme-documentation-extended-shortcodes/</link>
-    <pubDate>Tue, 03 Mar 2020 16:29:59 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://alphacat.fun/theme-documentation-extended-shortcodes/</guid>
-    <description><![CDATA[<p><strong>LoveIt</strong> 主题在 Hugo 内置的 shortcode 的基础上提供多个扩展的 shortcode.</p>]]></description>
-</item>
-<item>
-    <title>Markdown 基本语法</title>
-    <link>http://alphacat.fun/basic-markdown-syntax/</link>
-    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://alphacat.fun/basic-markdown-syntax/</guid>
-    <description><![CDATA[<p>这篇文章提供了可以在 Hugo 的文章中使用的基本 Markdown 语法示例.</p>]]></description>
-</item>
-<item>
-    <title>主题文档 - mermaid Shortcode</title>
-    <link>http://alphacat.fun/theme-documentation-mermaid-shortcode/</link>
-    <pubDate>Tue, 03 Mar 2020 15:29:59 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://alphacat.fun/theme-documentation-mermaid-shortcode/</guid>
-    <description><![CDATA[<a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.11" rel="noopener noreffer" target="_blank"></a>
-<p><code>mermaid</code> shortcode 使用 <a href="https://mermaidjs.github.io/" target="_blank" rel="noopener noreffer ">Mermaid</a> 库提供绘制图表和流程图的功能.</p>]]></description>
-</item>
-<item>
-    <title>Emoji 支持</title>
-    <link>http://alphacat.fun/emoji-support/</link>
-    <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://alphacat.fun/emoji-support/</guid>
-    <description><![CDATA[<p>Emoji 可以通过多种方式在 Hugo 项目中启用.</p>]]></description>
-</item>
-<item>
-    <title>主题文档 - echarts Shortcode</title>
-    <link>http://alphacat.fun/theme-documentation-echarts-shortcode/</link>
-    <pubDate>Tue, 03 Mar 2020 14:29:59 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://alphacat.fun/theme-documentation-echarts-shortcode/</guid>
-    <description><![CDATA[<p><code>echarts</code> shortcode 使用 <a href="https://echarts.apache.org/" target="_blank" rel="noopener noreffer ">ECharts</a> 库提供数据可视化的功能.</p>]]></description>
-</item>
-<item>
-    <title>主题文档 - mapbox Shortcode</title>
-    <link>http://alphacat.fun/theme-documentation-mapbox-shortcode/</link>
-    <pubDate>Tue, 03 Mar 2020 13:29:59 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://alphacat.fun/theme-documentation-mapbox-shortcode/</guid>
-    <description><![CDATA[<a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.0" rel="noopener noreffer" target="_blank"></a>
-<p><code>mapbox</code> shortcode 使用 <a href="https://docs.mapbox.com/mapbox-gl-js" target="_blank" rel="noopener noreffer ">Mapbox GL JS</a> 库提供互动式地图的功能.</p>]]></description>
+    <title>二叉树（2）</title>
+    <link>http://alphacat.fun/%E4%BA%8C%E5%8F%89%E6%A0%912/</link>
+    <pubDate>Sun, 12 Mar 2023 10:53:12 &#43;0800</pubDate>
+    <author>Jason</author>
+    <guid>http://alphacat.fun/%E4%BA%8C%E5%8F%89%E6%A0%912/</guid>
+    <description><![CDATA[<h1 id="算法学习先从简单题目开始刷起">算法学习先从简单题目开始刷起</h1>
+<p>算法学习，我个人认为建立学习的兴趣和信心最重要，所以先从简单题开始刷起，而越是简单的题目就越能直戳算法题目的本质，直指核心要点，只有这样才能快速培养起来我们对于算法问题的本质的熟悉度，这样看到中等难度或者高难度的题目也能很快分析出这道题目的本质考点，才能有思路解决问题，当一道题有了思路，剩下的就是代码的编写和堆砌了，这一部分考验的是对编程语言的熟悉程度，因此也要求我们对于用来解答问题使用的编程语言也要非常熟悉才行，这就需要大量的使用和练习了。</p>
+<h2 id="简单题目先从二叉树开始刷起">简单题目先从二叉树开始刷起</h2>
+<p>为什么这么说，因为二叉树算是数据结构以及算法最基本的最容易解答的一类题目了，其他的N叉树，也是从二叉树基础上进行扩展而来，用来入门和练手一定是最适合的题目类型了。</p>
+<h3 id="第一题力扣104二叉树的最大深度httpsleetcodecnproblemsmaximum-depth-of-binary-tree"><a href="https://leetcode.cn/problems/maximum-depth-of-binary-tree/" target="_blank" rel="noopener noreffer ">第一题.力扣104.二叉树的最大深度</a></h3>
+<p>给定一个二叉树，找出其最大深度。
+二叉树的深度为根节点到最远叶子节点的最长路径上的节点数。
+<strong>说明:</strong> 叶子节点是指没有子节点的节点。
+<strong>示例：</strong>
+给定二叉树 <code>[3,9,20,null,null,15,7]</code>，</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-MarkDown" data-lang="MarkDown"><span class="line"><span class="cl">    3
+</span></span><span class="line"><span class="cl">   / \
+</span></span><span class="line"><span class="cl">  9  20
+</span></span><span class="line"><span class="cl">     /  \
+</span></span><span class="line"><span class="cl">   15   7
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>返回它的最大深度 3 。
+<strong>解题思路</strong></p>
+<ul>
+<li><a href="http://data.biancheng.net/view/325.html" target="_blank" rel="noopener noreffer ">深度优先搜索（Depth First Search）</a></li>
+<li>找出终止条件：当前节点为空</li>
+<li>找出返回值：节点为空时说明高度为0，所以返回0，节点不为空时则分别求左右子树的高度的最大值，同时加1表示当前节点的高度，返回该数值</li>
+<li>某层的执行过程：在返回值部分基本已经描述清楚</li>
+<li>时间复杂度：O(n)</li>
+</ul>]]></description>
 </item>
 </channel>
 </rss>

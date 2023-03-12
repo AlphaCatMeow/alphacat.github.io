@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "dark.min.css",
-	"sourceRoot": "/home/runner/work/blog_source_backup/blog_source_backup",
+	"sourceRoot": "D:/Documents/Programs/AlphaCat",
 	"sources": [
 		"assets/lib/aplayer/dark.scss"
 	],
