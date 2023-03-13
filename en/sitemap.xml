@@ -11,6 +11,19 @@
                     hreflang="en"
                     href="http://alphacat.fun/en/about/"
                     /></url><url>
+            <loc>http://alphacat.fun/en/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="http://alphacat.fun/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="http://alphacat.fun/fr/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="http://alphacat.fun/en/"
+                    /></url><url>
             <loc>http://alphacat.fun/en/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
@@ -32,19 +45,6 @@
                     rel="alternate"
                     hreflang="en"
                     href="http://alphacat.fun/en/categories/documentation/"
-                    /></url><url>
-            <loc>http://alphacat.fun/en/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="http://alphacat.fun/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="http://alphacat.fun/fr/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="http://alphacat.fun/en/"
                     /></url><url>
             <loc>http://alphacat.fun/en/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"

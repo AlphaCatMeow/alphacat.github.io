@@ -1,6 +1,6 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Mon nouveau site Hugo</title>
+        <title>AlphaCat</title>
         <link>http://alphacat.fun/fr/</link>
         <description>AlphaCat Blog 基于 Hugo 构建</description>
         <generator>Hugo -- gohugo.io</generator><language>fr</language><managingEditor>jinghao_chen@msn.com (Jason Chen)</managingEditor>

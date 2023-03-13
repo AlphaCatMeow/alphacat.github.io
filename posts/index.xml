@@ -4,7 +4,7 @@
         <link>http://alphacat.fun/posts/</link>
         <description>所有文章 | AlphaCat</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>jinghao_chen@msn.com (Jason Chen)</managingEditor>
-            <webMaster>jinghao_chen@msn.com (Jason Chen)</webMaster><lastBuildDate>Sun, 12 Mar 2023 10:53:12 &#43;0800</lastBuildDate><atom:link href="http://alphacat.fun/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>jinghao_chen@msn.com (Jason Chen)</webMaster><lastBuildDate>Mon, 13 Mar 2023 21:26:09 &#43;0800</lastBuildDate><atom:link href="http://alphacat.fun/posts/" rel="self" type="application/rss+xml" /><item>
     <title>二叉树（1）</title>
     <link>http://alphacat.fun/%E4%BA%8C%E5%8F%89%E6%A0%911/</link>
     <pubDate>Sat, 11 Mar 2023 21:41:39 &#43;0800</pubDate>
@@ -25,6 +25,14 @@
 <p><strong>示例：</strong></p>
 <p>输入：<code>root = [3,9,20,null,null,15,7]</code>
 输出：3</p>]]></description>
+</item>
+<item>
+    <title>初中数学第一课</title>
+    <link>http://alphacat.fun/%E5%88%9D%E4%B8%AD%E6%95%B0%E5%AD%A6%E7%AC%AC%E4%B8%80%E8%AF%BE/</link>
+    <pubDate>Mon, 13 Mar 2023 21:26:09 &#43;0800</pubDate>
+    <author>Jason</author>
+    <guid>http://alphacat.fun/%E5%88%9D%E4%B8%AD%E6%95%B0%E5%AD%A6%E7%AC%AC%E4%B8%80%E8%AF%BE/</guid>
+    <description><![CDATA[<div class="bilibili"><iframe src="//player.bilibili.com/player.html?bvid=BV114411Q7Y4&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe></div>]]></description>
 </item>
 <item>
     <title>二叉树（2）</title>
