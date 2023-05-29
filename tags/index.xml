@@ -1,8 +1,80 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Tags - Tag - AlphaCat Blog</title>
+        <title>Tags - 标签 - AlphaCat</title>
         <link>http://alphacat.fun/tags/</link>
-        <description>Tags - Tag - AlphaCat Blog</description>
+        <description>Tags - 标签 - AlphaCat</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>jinghao_chen@msn.com (Jason Chen)</managingEditor>
-            <webMaster>jinghao_chen@msn.com (Jason Chen)</webMaster><atom:link href="http://alphacat.fun/tags/" rel="self" type="application/rss+xml" /></channel>
+            <webMaster>jinghao_chen@msn.com (Jason Chen)</webMaster><lastBuildDate>Mon, 13 Mar 2023 21:26:09 &#43;0800</lastBuildDate><atom:link href="http://alphacat.fun/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>算法与数据结构</title>
+    <link>http://alphacat.fun/tags/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</link>
+    <pubDate>Mon, 13 Mar 2023 21:26:09 &#43;0800</pubDate>
+    <author>Jason Chen</author>
+    <guid>http://alphacat.fun/tags/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Python3</title>
+    <link>http://alphacat.fun/tags/python3/</link>
+    <pubDate>Sat, 11 Mar 2023 21:41:39 &#43;0800</pubDate>
+    <author>Jason Chen</author>
+    <guid>http://alphacat.fun/tags/python3/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>编程技巧</title>
+    <link>http://alphacat.fun/tags/%E7%BC%96%E7%A8%8B%E6%8A%80%E5%B7%A7/</link>
+    <pubDate>Sat, 11 Mar 2023 21:41:39 &#43;0800</pubDate>
+    <author>Jason Chen</author>
+    <guid>http://alphacat.fun/tags/%E7%BC%96%E7%A8%8B%E6%8A%80%E5%B7%A7/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>二叉树</title>
+    <link>http://alphacat.fun/tags/%E4%BA%8C%E5%8F%89%E6%A0%91/</link>
+    <pubDate>Sat, 11 Mar 2023 21:41:39 &#43;0800</pubDate>
+    <author>Jason Chen</author>
+    <guid>http://alphacat.fun/tags/%E4%BA%8C%E5%8F%89%E6%A0%91/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>数据结构</title>
+    <link>http://alphacat.fun/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</link>
+    <pubDate>Sat, 11 Mar 2023 21:41:39 &#43;0800</pubDate>
+    <author>Jason Chen</author>
+    <guid>http://alphacat.fun/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>算法</title>
+    <link>http://alphacat.fun/tags/%E7%AE%97%E6%B3%95/</link>
+    <pubDate>Sat, 11 Mar 2023 21:41:39 &#43;0800</pubDate>
+    <author>Jason Chen</author>
+    <guid>http://alphacat.fun/tags/%E7%AE%97%E6%B3%95/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>安装</title>
+    <link>http://alphacat.fun/tags/installation/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Jason Chen</author>
+    <guid>http://alphacat.fun/tags/installation/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>内容</title>
+    <link>http://alphacat.fun/tags/content/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Jason Chen</author>
+    <guid>http://alphacat.fun/tags/content/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>配置</title>
+    <link>http://alphacat.fun/tags/configuration/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Jason Chen</author>
+    <guid>http://alphacat.fun/tags/configuration/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>
