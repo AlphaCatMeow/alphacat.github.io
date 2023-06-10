@@ -4,7 +4,7 @@
         <link>http://alphacat.fun/</link>
         <description>AlphaCat Blog 基于 Hugo 构建</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>jinghao_chen@msn.com (Jason Chen)</managingEditor>
-            <webMaster>jinghao_chen@msn.com (Jason Chen)</webMaster><lastBuildDate>Mon, 13 Mar 2023 21:26:09 &#43;0800</lastBuildDate>
+            <webMaster>jinghao_chen@msn.com (Jason Chen)</webMaster><lastBuildDate>Sat, 10 Jun 2023 15:46:39 &#43;0800</lastBuildDate>
             <atom:link href="http://alphacat.fun/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>二叉树（1）</title>
@@ -27,6 +27,20 @@
 <p><strong>示例：</strong></p>
 <p>输入：<code>root = [3,9,20,null,null,15,7]</code>
 输出：3</p>]]></description>
+</item>
+<item>
+    <title>初二数学</title>
+    <link>http://alphacat.fun/%E5%88%9D%E4%BA%8C%E6%95%B0%E5%AD%A6/</link>
+    <pubDate>Sat, 10 Jun 2023 15:46:39 &#43;0800</pubDate>
+    <author>Jason</author>
+    <guid>http://alphacat.fun/%E5%88%9D%E4%BA%8C%E6%95%B0%E5%AD%A6/</guid>
+    <description><![CDATA[<ul>
+<li><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 三角形的定义：由三条不在同一直线上的三条线段组成首尾相连的平面图形叫做三角形；三角形的顶点；三角形的边、内角</li>
+<li><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 三角形的高、中线与角平分线、三角形的稳定性；锐角三角形的三条高线交于一点，三条高线都在三角形的内部；直角三角形的高交于直角顶点；钝角三角形的高不相交于一点，它们所在的直线相交于一点。</li>
+<li><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 三角形的内角；三角形内角和是180度；三角形的外角</li>
+<li><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 多边形及其内角和；正多边形内角和都相等，正多边形的每条边都相等</li>
+<li><i class="far fa-check-square fa-fw" aria-hidden="true"></i> 全等三角形：能够完全重合的两个三角形叫做全等三角形</li>
+</ul>]]></description>
 </item>
 <item>
     <title>初一数学</title>
