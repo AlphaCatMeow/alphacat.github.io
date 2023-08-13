@@ -4,7 +4,7 @@
         <link>http://alphacat.fun/tags/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</link>
         <description>算法与数据结构 - 标签 - AlphaCat</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>jinghao_chen@msn.com (Jason Chen)</managingEditor>
-            <webMaster>jinghao_chen@msn.com (Jason Chen)</webMaster><lastBuildDate>Sat, 10 Jun 2023 15:46:39 &#43;0800</lastBuildDate><atom:link href="http://alphacat.fun/tags/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>jinghao_chen@msn.com (Jason Chen)</webMaster><lastBuildDate>Sun, 13 Aug 2023 09:26:13 &#43;0800</lastBuildDate><atom:link href="http://alphacat.fun/tags/%E7%AE%97%E6%B3%95%E4%B8%8E%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/" rel="self" type="application/rss+xml" /><item>
     <title>二叉树（1）</title>
     <link>http://alphacat.fun/%E4%BA%8C%E5%8F%89%E6%A0%911/</link>
     <pubDate>Sat, 11 Mar 2023 21:41:39 &#43;0800</pubDate>
@@ -25,6 +25,514 @@
 <p><strong>示例：</strong></p>
 <p>输入：<code>root = [3,9,20,null,null,15,7]</code>
 输出：3</p>]]></description>
+</item>
+<item>
+    <title>AI摄影手册</title>
+    <link>http://alphacat.fun/ai%E6%91%84%E5%BD%B1%E6%89%8B%E5%86%8C/</link>
+    <pubDate>Sun, 13 Aug 2023 09:26:13 &#43;0800</pubDate>
+    <author>Jason</author>
+    <guid>http://alphacat.fun/ai%E6%91%84%E5%BD%B1%E6%89%8B%E5%86%8C/</guid>
+    <description><![CDATA[<h1 id="ai摄影公式">AI摄影公式</h1>
+<h2 id="镜头公式"><strong>镜头公式</strong></h2>
+<table>
+<thead>
+<tr>
+<th>摄影场景</th>
+<th>推荐镜头</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>人像摄影</td>
+<td>Canon RF 85mm f/1.2L</td>
+<td>85mm镜头是人像摄影的经典选择，能产生出美丽的背景虚化效果。Canon RF 85mm f/1.2L的大光圈有助于产生更大的景深控制和在光照条件较差的环境中进行拍摄。</td>
+</tr>
+<tr>
+<td>人像摄影</td>
+<td>Nikon AF-S 105mm f/1.4E ED</td>
+<td>105mm镜头适合于拍摄肖像，具有出色的清晰度和色彩还原。</td>
+</tr>
+<tr>
+<td>风景和自然摄影</td>
+<td>Nikon AF-S NIKKOR 14-24mm f/2.8G ED</td>
+<td>这是一款超广角变焦镜头，能够覆盖从14mm到24mm的焦段范围，非常适合风景摄影。超广角能捕捉到宽阔的风景，同时f/2.8的恒定光圈在各种光线条件下都能保持良好的性能。</td>
+</tr>
+<tr>
+<td>风景和自然摄影</td>
+<td>Canon EF 24-70mm f/2.8L II USM</td>
+<td>这款变焦镜头在广阔的风景和特写镜头之间提供了优秀的灵活性，是风景和自然摄影的理想选择。f/2.8的恒定光圈也有助于确保在各种光线条件下都能保持一致的性能。</td>
+</tr>
+<tr>
+<td>室内建筑和装饰摄影</td>
+<td>Sony FE 16-35mm f/2.8 GM</td>
+<td>这款广角变焦镜头非常适合室内和建筑摄影，尤其在空间狭窄的情况下，能够获得更大的视角。光圈f/2.8能够提供良好的低光性能和景深控制。</td>
+</tr>
+<tr>
+<td>室内建筑和装饰摄影</td>
+<td>Canon TS-E 17mm f/4L UD</td>
+<td>这款移轴镜头特别适合建筑和室内摄影，可以调整视角和透视，帮助避免建筑物看起来歪曲或倾斜。</td>
+</tr>
+<tr>
+<td>运动和动作摄影</td>
+<td>Canon EF 70-200mm f/2.8L IS III USM</td>
+<td>这款变焦镜头提供了从70mm到200mm的焦距范围，可以在远距离拍摄运动员或者动作主题。大的f/2.8光圈和防抖技术能够在各种光线条件下获得清晰，稳定的照片。</td>
+</tr>
+<tr>
+<td>运动和动作摄影</td>
+<td>Nikon AF-S NIKKOR 200-500mm f/5.6E ED VR</td>
+<td>这款超长焦镜头非常适合拍摄快速移动的对象，如运动员或者野生动物。防抖技术有助于在手持拍摄时保证图像的清晰。</td>
+</tr>
+<tr>
+<td>微距摄影</td>
+<td>Nikon AF-S VR Micro-NIKKOR 105mm f/2.8G IF-ED</td>
+<td>这是一款专业级的微距镜头，能够以1:1的比例捕捉小物体，非常适合拍摄花朵、昆虫或其他微小细节。大光圈f/2.8和防抖技术有助于在各种光线和拍摄条件下获得清晰的照片。</td>
+</tr>
+<tr>
+<td>微距摄影</td>
+<td>Canon EF 180mm f/3.5L Macro USM</td>
+<td>这款长焦微距镜头提供了更大的工作距离，非常适合拍摄昆虫或者其他需要保持一定距离的微距主题。</td>
+</tr>
+<tr>
+<td>夜晚和低光摄影</td>
+<td>Sony FE 24mm f/1.4 GM</td>
+<td>24mm广角镜头能够捕捉更多的场景，而f/1.4大光圈则能在低光环境下收集更多光线。这款镜头非常适合夜景、星空或者其他在暗光环境下的拍摄。</td>
+</tr>
+<tr>
+<td>夜晚和低光摄影</td>
+<td>Nikon AF-S NIKKOR 35mm f/1.4G</td>
+<td>这款35mm镜头的大光圈f/1.4使其在低光环境下表现优秀，非常适合夜晚和低光摄影。</td>
+</tr>
+<tr>
+<td>街头摄影</td>
+<td>Fujifilm XF 23mm f/2 R WR</td>
+<td>这款35mm等效的镜头提供了经典的街头摄影视角。光圈f/2在多数光线条件下都能有良好的表现，镜头体积较小，更适合街头随身携带和拍摄。</td>
+</tr>
+<tr>
+<td>街头摄影</td>
+<td>Leica Summicron-M 35mm f/2 ASPH</td>
+<td>这款35mm镜头由著名的徕卡公司制造，提供了优秀的画质和视角，是街头摄影的理想选择。</td>
+</tr>
+<tr>
+<td>商品和商业摄影</td>
+<td>Canon EF 100mm f/2.8L Macro IS USM</td>
+<td>这是一款优秀的微距镜头，提供1:1放大比例，非常适合拍摄小物品和细节。镜头还包括光学防抖技术，可以在手持拍摄时保证图像的清晰。</td>
+</tr>
+<tr>
+<td>商品和商业摄影</td>
+<td>Nikon AF-S NIKKOR 85mm f/1.4G</td>
+<td>这款85mm镜头提供了优秀的背景虚化效果，非常适合拍摄产品和其他商业主题。</td>
+</tr>
+<tr>
+<td>动物和野生动物摄影</td>
+<td>Sony FE 100-400mm f/4.5-5.6 GM OSS</td>
+<td>这款长焦变焦镜头提供了100mm到400mm的焦段范围，可以在远距离拍摄动物。虽然光圈不大，但镜头的防抖系统可以帮助降低模糊，确保照片清晰。</td>
+</tr>
+<tr>
+<td>动物和野生动物摄影</td>
+<td>Canon EF 600mm f/4L IS III USM</td>
+<td>这款超长焦镜头在拍摄野生动物时提供了极大的工作距离，而大光圈和防抖技术则有助于在各种光线条件下获得清晰的照片。</td>
+</tr>
+<tr>
+<td>航拍摄影</td>
+<td>DJI Mavic 2 Pro&rsquo;s built-in Hasselblad L1D-20c</td>
+<td>这是DJI Mavic 2 Pro无人机自带的镜头，由著名相机制造商哈苏提供的光学技术，能提供优秀的航拍图像质量。</td>
+</tr>
+<tr>
+<td>航拍摄影</td>
+<td>DJI Phantom 4 Pro V2.0&rsquo;s built-in lens</td>
+<td>这款镜头是DJI Phantom 4 Pro V2.0无人机的自带镜头，具有广角视角，能拍摄宽阔的航拍景色。</td>
+</tr>
+</tbody>
+</table>
+<h2 id="机位角度"><strong>机位角度</strong></h2>
+<table>
+<thead>
+<tr>
+<th>机位和角度</th>
+<th>英文</th>
+<th>描述和特点</th>
+<th>适合场景</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>眼睛水平线</td>
+<td>Eye-level Angle</td>
+<td>保证摄影师的镜头和被摄者的眼睛在同一水平线上，可以创造出自然和亲近的视角。</td>
+<td>人像摄影、动物和野生动物摄影</td>
+</tr>
+<tr>
+<td>低角度</td>
+<td>Low Angle</td>
+<td>从下方向上拍摄，可以使被摄者显得更为高大和威严。</td>
+<td>人像摄影、室内建筑和装饰摄影、动物和野生动物摄影</td>
+</tr>
+<tr>
+<td>高角度</td>
+<td>High Angle</td>
+<td>从高处向下拍摄，可以展现出风景的广阔和壮观。</td>
+<td>风景和自然摄影、室内建筑和装饰摄影、夜晚和低光摄影</td>
+</tr>
+<tr>
+<td>跟踪拍摄</td>
+<td>Tracking Shot</td>
+<td>在拍摄运动主题时，将镜头与运动主题保持同步，可以捕捉到动态的瞬间。</td>
+<td>运动和动作摄影</td>
+</tr>
+<tr>
+<td>高速连拍</td>
+<td>High-speed Continuous Shooting</td>
+<td>使用高速连拍模式，可以捕捉到运动过程中的精彩瞬间。</td>
+<td>运动和动作摄影</td>
+</tr>
+<tr>
+<td>侧面拍摄</td>
+<td>Side Shot</td>
+<td>在拍摄微小物体时，从侧面拍摄可以展现出细节和纹理。</td>
+<td>微距摄影</td>
+</tr>
+<tr>
+<td>顶视图</td>
+<td>Top View</td>
+<td>从上方直接向下拍摄，可以使微小物体更为醒目，同时也能创造出极简的背景。</td>
+<td>微距摄影</td>
+</tr>
+<tr>
+<td>长曝光</td>
+<td>Long Exposure</td>
+<td>使用长曝光模式，可以在夜晚或者低光环境中拍摄出动态的光线轨迹。</td>
+<td>夜晚和低光摄影</td>
+</tr>
+<tr>
+<td>偷拍</td>
+<td>Candid Shot</td>
+<td>在拍摄街头摄影时，偷偷地拍摄可以捕捉到最自然的瞬间。</td>
+<td>街头摄影</td>
+</tr>
+<tr>
+<td>从背后拍摄</td>
+<td>Back Shot</td>
+<td>在拍摄人群或者人物时，从背后拍摄可以创造出神秘和期待的气氛。</td>
+<td>街头摄影</td>
+</tr>
+<tr>
+<td>平视角度</td>
+<td>Flat Angle</td>
+<td>在拍摄商品时，将镜头与商品保持在同一水平线上，可以使商品看起来更为醒目。</td>
+<td>商品和商业摄影</td>
+</tr>
+<tr>
+<td>俯视角度</td>
+<td>Bird&rsquo;s-eye View</td>
+<td>在拍摄商品时，从上方向下拍摄，可以展现出商品的全貌。</td>
+<td>商品和商业摄影</td>
+</tr>
+<tr>
+<td>鸟瞰视角</td>
+<td>Aerial View</td>
+<td>在航拍摄影中，从上方直接向下拍摄，可以得到独特的鸟瞰视角。</td>
+<td>航拍摄影</td>
+</tr>
+<tr>
+<td>平行视角</td>
+<td>Parallel View</td>
+<td>在航拍摄影中，将无人机与地面保持平行，可以拍摄到宽阔的景色。</td>
+<td>航拍摄影</td>
+</tr>
+<tr>
+<td>仰视角</td>
+<td>Worm&rsquo;s Eye View</td>
+<td>从地面角度向上拍摄，使得被摄者显得较大，视角新颖，能拍摄到不同的效果</td>
+<td>人像摄影，建筑摄影</td>
+</tr>
+<tr>
+<td>跟踪视角</td>
+<td>Tracking Shot</td>
+<td>镜头与移动的被摄者保持同步移动，使得被摄者在画面中位置相对固定，背景在快速移动，增加动态感</td>
+<td>运动摄影</td>
+</tr>
+<tr>
+<td>移动视角</td>
+<td>Dolly Shot</td>
+<td>镜头在移动中拍摄，使得画面具有动态感，拍摄角度丰富多变</td>
+<td>电影拍摄，运动摄影</td>
+</tr>
+<tr>
+<td>主观视角</td>
+<td>Point of View Shot (POV)</td>
+<td>以第一人称视角拍摄，使观众能更好地代入情境</td>
+<td>电影拍摄，运动摄影</td>
+</tr>
+<tr>
+<td>蟑螂视角</td>
+<td>Frog&rsquo;s Eye View</td>
+<td>从接近地面的角度拍摄，使得被摄者显得较大，视角特别，能拍摄到不同的效果</td>
+<td>人像摄影，建筑摄影</td>
+</tr>
+<tr>
+<td>肩上机位</td>
+<td>Shoulder Shot</td>
+<td>这种机位常常用于新闻报道或采访，相机位于拍摄者的肩膀上，可以营造一种真实，即时的效果。</td>
+<td>新闻报道、现场采访、纪录片拍摄</td>
+</tr>
+<tr>
+<td>倾斜机位</td>
+<td>Dutch Angle</td>
+<td>相机被倾斜地置于一定角度拍摄，可产生一种动态的，甚至是混乱、紧张的视觉效果。</td>
+<td>悬疑片或惊悚片拍摄、创意摄影</td>
+</tr>
+<tr>
+<td>俯视角度</td>
+<td>Overhead Shot</td>
+<td>从主题的正上方拍摄，可以获得一种特别的视角，常常用于食品、产品等摄影。</td>
+<td>食品摄影、产品摄影、航拍摄影</td>
+</tr>
+<tr>
+<td>对角线角度</td>
+<td>Diagonal Angle</td>
+<td>摄影师通过对角线角度可以引导观众的视线，常常可以增加作品的动态感。</td>
+<td>运动和动作摄影、舞蹈摄影</td>
+</tr>
+<tr>
+<td>弧线角度</td>
+<td>Arc Shot</td>
+<td>相机沿着主体一定的弧度移动，可以在保持主体的清晰度的同时，展现出更多的背景环境。</td>
+<td>电影和电视剧拍摄、运动和动作摄影</td>
+</tr>
+<tr>
+<td>追踪角度</td>
+<td>Tracking Shot</td>
+<td>摄影师移动相机以跟踪主题，这样可以保持主题在画面中的稳定性，同时增强画面的动态感。</td>
+<td>运动和动作摄影、电影和电视剧拍摄</td>
+</tr>
+<tr>
+<td>深度角度</td>
+<td>Deep Focus</td>
+<td>摄影师通过技术手段让画面前中后景都保持清晰，有深度的画面可以传达更多的信息，营造出丰富的视觉效果。</td>
+<td>风景和自然摄影、电影和电视剧拍摄</td>
+</tr>
+</tbody>
+</table>
+<h2 id="光线"><strong>光线</strong></h2>
+<table>
+<thead>
+<tr>
+<th>光线类型</th>
+<th>英文表达</th>
+<th>描述和特点</th>
+<th>适合场景</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>自然光</td>
+<td>Natural Light</td>
+<td>自然光主要来自于太阳，变化多端，无需额外设备</td>
+<td>人像摄影、风景和自然摄影、动物和野生动物摄影</td>
+</tr>
+<tr>
+<td>金色时刻</td>
+<td>Golden Hour</td>
+<td>日出日落时的光线，色温偏暖，柔和且富有层次感</td>
+<td>人像摄影、风景和自然摄影、航拍摄影</td>
+</tr>
+<tr>
+<td>蓝色时刻</td>
+<td>Blue Hour</td>
+<td>日出前和日落后的光线，色温偏冷，适合拍摄夜景和城市灯光</td>
+<td>城市摄影、夜晚和低光摄影</td>
+</tr>
+<tr>
+<td>平行光</td>
+<td>Parallel Light</td>
+<td>来源单一，方向恒定，能产生清晰的阴影，增强立体感</td>
+<td>产品摄影、建筑和装饰摄影</td>
+</tr>
+<tr>
+<td>散射光</td>
+<td>Diffused Light</td>
+<td>来源广泛，方向多变，光线柔和，减少过度曝光和阴影</td>
+<td>人像摄影、商品和商业摄影</td>
+</tr>
+<tr>
+<td>逆光</td>
+<td>Back Light</td>
+<td>光源位于被摄者背后，能产生剪影效果或光晕效果</td>
+<td>人像摄影、风景和自然摄影</td>
+</tr>
+<tr>
+<td>侧光</td>
+<td>Side Light</td>
+<td>光源位于被摄者一侧，能产生强烈的阴影和立体感</td>
+<td>人像摄影、建筑和装饰摄影</td>
+</tr>
+<tr>
+<td>填充光</td>
+<td>Fill Light</td>
+<td>用于补充主光源无法照亮的阴影部分，使照片亮度更均匀</td>
+<td>人像摄影、商品和商业摄影</td>
+</tr>
+<tr>
+<td>闪光灯</td>
+<td>Flash Light</td>
+<td>强度高，方向可控，适合在低光环境下使用</td>
+<td>室内摄影、夜晚和低光摄影</td>
+</tr>
+<tr>
+<td>环形灯</td>
+<td>Ring Light</td>
+<td>光线均匀，适合拍摄细节，常用于微距摄影和人像摄影</td>
+<td>微距摄影、人像摄影</td>
+</tr>
+<tr>
+<td>窗户光</td>
+<td>Window Light</td>
+<td>利用窗户作为自然光源，光线柔和，适合拍摄人像和静物</td>
+<td>人像摄影、商品和商业摄影</td>
+</tr>
+<tr>
+<td>平衡光</td>
+<td>Balanced Light</td>
+<td>通过调整光源，使得主体和背景的光线平衡，避免过度曝光或欠曝光</td>
+<td>所有类型的摄影都适用</td>
+</tr>
+<tr>
+<td>软光</td>
+<td>Soft Light</td>
+<td>光线柔和，无明显阴影，适合拍摄肖像和静物</td>
+<td>人像摄影、商品和商业摄影</td>
+</tr>
+<tr>
+<td>硬光</td>
+<td>Hard Light</td>
+<td>光线强烈，阴影明显，适合拍摄体现质感和立体感的场景</td>
+<td>建筑和装饰摄影、商品和商业摄影</td>
+</tr>
+<tr>
+<td>副光源</td>
+<td>Secondary Light Source</td>
+<td>辅助主光源，增加画面的层次感和立体感</td>
+<td>所有类型的摄影都适用</td>
+</tr>
+<tr>
+<td>反光板光</td>
+<td>Reflector Light</td>
+<td>利用反光板反射光线，增加画面亮度，补充阴影部分</td>
+<td>人像摄影、商品和商业摄影</td>
+</tr>
+<tr>
+<td>点光源</td>
+<td>Spot Light</td>
+<td>光源照射范围有限，能产生明显的阴影和高光，适合突出主体</td>
+<td>人像摄影、商品和商业摄影，美食摄影</td>
+</tr>
+</tbody>
+</table>
+<h2 id="其他辅助词"><strong>其他辅助词</strong></h2>
+<h3 id="色温">色温</h3>
+<table>
+<thead>
+<tr>
+<th>种类</th>
+<th>描述</th>
+<th>适用场景</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>冷色调（Cool Tone）</td>
+<td>给人一种冷静、安静的感觉。</td>
+<td>拍摄雪景、海洋、森林等场景。</td>
+</tr>
+<tr>
+<td>暖色调（Warm Tone）</td>
+<td>给人一种温暖、舒适的感觉。</td>
+<td>拍摄日出日落、秋天的枫叶、人像等场景。</td>
+</tr>
+</tbody>
+</table>
+<h3 id="饱和度">饱和度</h3>
+<table>
+<thead>
+<tr>
+<th>种类</th>
+<th>描述</th>
+<th>适用场景</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>高饱和度（High Saturation）</td>
+<td>色彩鲜艳。</td>
+<td>拍摄花卉、风景等场景，可以增加画面的视觉冲击力。</td>
+</tr>
+<tr>
+<td>低饱和度（Low Saturation）</td>
+<td>色彩柔和。</td>
+<td>拍摄人像、静物等场景，可以使画面更为细腻、淡雅。</td>
+</tr>
+</tbody>
+</table>
+<h3 id="对比度">对比度</h3>
+<table>
+<thead>
+<tr>
+<th>种类</th>
+<th>描述</th>
+<th>适用场景</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>高对比度（High Contrast）</td>
+<td>色彩分明，层次感强。</td>
+<td>拍摄建筑、街头等场景，可以突出主体，增强立体感。</td>
+</tr>
+<tr>
+<td>低对比度（Low Contrast）</td>
+<td>色彩柔和。</td>
+<td>拍摄雾景、人像等场景，可以使画面更为和谐、自然。</td>
+</tr>
+</tbody>
+</table>
+<h3 id="色彩搭配">色彩搭配</h3>
+<table>
+<thead>
+<tr>
+<th>种类</th>
+<th>描述</th>
+<th>适用场景</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>互补色搭配（Complementary Colors）</td>
+<td>例如蓝色和橙色。</td>
+<td>拍摄风景、静物等场景，可以增强画面的对比和视觉冲击力。</td>
+</tr>
+<tr>
+<td>类似色搭配（Analogous Colors）</td>
+<td>例如红色、橙色和黄色。</td>
+<td>拍摄人像、花卉等场景，可以带来和谐、舒适的感觉。</td>
+</tr>
+<tr>
+<td>分裂互补色搭配（Split-Complementary Colors）</td>
+<td>例如蓝色、橙红色和黄橙色。</td>
+<td>拍摄风景、静物等场景，可以带来丰富、复杂的色彩效果。</td>
+</tr>
+<tr>
+<td>等距色搭配（Triadic Colors）</td>
+<td>例如红色、黄色和蓝色。</td>
+<td>拍摄风景、静物等场景，可以带来生动、活泼的色彩效果。</td>
+</tr>
+<tr>
+<td>矩形色搭配（Tetradic Colors）</td>
+<td>例如红色、橙色、蓝色和绿色。</td>
+<td>拍摄风景、静物等场景，可以带来丰富、多样的色彩效果。</td>
+</tr>
+</tbody>
+</table>]]></description>
 </item>
 <item>
     <title>初二数学</title>
